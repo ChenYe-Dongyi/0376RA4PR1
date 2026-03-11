@@ -1,7 +1,7 @@
 # RA3Ex7 – Documentació del DOM amb JavaScript
 
-Aquesta pràctica son **8 exercicis** s'utilitza selecció d'elements, modificació de contingut, atributs, estils, classes, esdeveniments, creació i eliminació de nodes.
 
+Aquesta pràctica son **8 exercicis** s'utilitza selecció d'elements, modificació de contingut, atributs, estils, classes, esdeveniments, creació i eliminació de nodes.
 
 
 ## Índex d'exercicis
