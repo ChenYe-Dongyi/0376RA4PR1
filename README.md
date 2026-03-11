@@ -2,20 +2,20 @@
 
 Aquesta pràctica son **8 exercicis ràpids** s'utilitza selecció d'elements, modificació de contingut, atributs, estils, classes, esdeveniments, creació i eliminació de nodes.
 
----
+
 
 ## Índex d'exercicis
 
-1. [Selecció i canvi de color](#1-selecció-i-canvi-de-color)
-2. [Canvi de contingut de text](#2-canvi-de-contingut-de-text)
-3. [Canvi d'atribut d'imatge](#3-canvi-datribut-dimatge)
-4. [Canvi d'estil en fer clic](#4-canvi-destil-en-fer-clic)
-5. [Toggle de classe CSS](#5-toggle-de-classe-css)
-6. [Esdeveniment de botó amb alerta](#6-esdeveniment-de-botó-amb-alerta)
-7. [Creació d'elements nous](#7-creació-delements-nous)
-8. [Eliminació d'elements](#8-eliminació-delements)
+1. [Selecció i canvi de color]
+2. [Canvi de contingut de text]
+3. [Canvi d'atribut d'imatge]
+4. [Canvi d'estil en fer clic]
+5. [Toggle de classe CSS]
+6. [Esdeveniment de botó amb alerta]
+7. [Creació d'elements nous]
+8. [Eliminació d'elements]
 
----
+
 
 ## Exercicis i solucions
 
@@ -29,7 +29,7 @@ changeColor.style.color = "blue";
 ```
 
 
----
+
 
 ### 2. Canvi de contingut de text
 
@@ -40,7 +40,7 @@ let showText = document.querySelector("#paragraf-hola");
 showText.textContent = "Hola Món";
 ```
 
----
+
 
 ### 3. Canvi d'atribut d'imatge
 
@@ -52,7 +52,6 @@ showImg.setAttribute("src", "https://picsum.photos/150");
 ```
 
 
----
 
 ### 4. Canvi d'estil en fer clic
 
@@ -67,7 +66,7 @@ caixaEstil.addEventListener("click", () => {
 ```
 
 
----
+
 
 ### 5. Toggle de classe CSS
 
@@ -83,8 +82,6 @@ botoToggle.addEventListener("click", () => {
 ```
 
 
----
-
 ### 6. Esdeveniment de botó amb alerta
 
 > Afegeix un `addEventListener` a un botó perquè mostri una alerta (`alert`).
@@ -98,7 +95,7 @@ botoAlerta.addEventListener("click", () => {
 ```
 
 
----
+
 
 ### 7. Creació d'elements nous
 
@@ -115,7 +112,7 @@ botoAfegir.addEventListener("click", () => {
 });
 ```
 
----
+
 
 ### 8. Eliminació d'elements
 
