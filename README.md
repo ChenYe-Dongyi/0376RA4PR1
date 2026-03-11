@@ -94,7 +94,6 @@ botoAlerta.addEventListener("click", () => {
 ```
 
 
-
 ### 7. Creació d'elements nous
 
 > Crea un nou `<li>` amb `createElement` i afegeix-lo a una `<ul>` amb `appendChild`.
@@ -122,5 +121,6 @@ elementEliminar.addEventListener("click", () => {
     elementEliminar.remove();
 });
 ```
+
 
 
